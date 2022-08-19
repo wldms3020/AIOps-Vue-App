@@ -6,6 +6,7 @@ function resolveSrc(_path) {
 // vue.config.js
 module.exports = {
   devServer: {
+    port: 8080,
     proxy: 'http://192.168.65.39:8080',
     // proxy: 'http://localhost:8000',
   },
