@@ -60,7 +60,7 @@
   
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/Git%20Hub-181717?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/Git%20Hub-181717?style=flat-square&logo=github&logoColor=white)
 
 <!-- Features -->
 ### :dart: Features
